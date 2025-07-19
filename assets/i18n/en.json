@@ -1,0 +1,47 @@
+{
+  "toTop": "Take me up!",
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact",
+    "brand": "Bazid misr Tourism"
+  },
+  "home": {
+    "hero": {
+      "title": "Welcome to Bazid misr Tourism",
+      "subtitle": "Your trusted partner for unforgettable travel experiences",
+      "explore": "Explore Our Tours",
+      "book": "Book Your Trip"
+    },
+    "destinations": {
+      "sectionTitle": "Popular Destinations",
+      "sectionSubtitle": "Explore our most loved destinations around the world",
+      "viewDetails": "View Details"
+    },
+    "features": {
+      "sectionTitle": "Why Choose Bazid misr",
+      "sectionSubtitle": "We provide exceptional travel experiences with unmatched service",
+      "safe": {
+        "title": "Safe & Secure",
+        "desc": "Your safety is our top priority with certified guides and secure bookings."
+      },
+      "price": {
+        "title": "Best Prices",
+        "desc": "Competitive prices with no hidden fees and flexible payment options."
+      },
+      "guide": {
+        "title": "Expert Guides",
+        "desc": "Professional and experienced guides who know every destination inside out."
+      },
+      "custom": {
+        "title": "Custom Tours",
+        "desc": "Personalized experiences tailored to your preferences and schedule."
+      }
+    },
+    "testimonials": {
+      "sectionTitle": "What Our Travelers Say",
+      "sectionSubtitle": "Real experiences from our satisfied customers"
+    }
+  }
+}
